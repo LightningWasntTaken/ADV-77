@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(to right,  darkgray,  lightgray,  white );
+    font-family: 'Noto Sans Mono', monospace;
+    text-align: center;
+}
